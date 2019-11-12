@@ -1,5 +1,5 @@
 ### 为了帮助香港市民找出所有乱港分子，需要技术人员开发资料收集工具，来共同完善这份名单及其详细个人信息。有意者请发送邮件至wecansavehongkong@163.com。
-### We need programmers to develop data mining tools and websites for updating this blacklist. Finally, all the main squeeze，criminals, financial support, logistic support as well as publicist will be found out. Email: wecansavehongkong@163.com
+### We need programmers to develop data mining tools and websites for updating this blacklist. Finally,all the main squeeze，criminals, financial support,logistic support as well as publicist will be found out. Email: wecansavehongkong@163.com
 
 
 ##### 黎智英，壹传媒、苹果日报头目
