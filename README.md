@@ -1,4 +1,4 @@
-# People Lead the Riots in Hong Kong 乱港主要人物
+# 乱港主要人物 People Lead the Riots in Hong Kong
 
 ### We need programmers to develop data mining tools and websites for updating this blacklist. Finally,all the main squeeze,criminals,financial support,logistic support as well as publicist will be found out. Email: wecansavehongkong@163.com
 
