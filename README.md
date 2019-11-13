@@ -1,6 +1,6 @@
 # 乱港主要人物 People Lead the Riots in Hong Kong
 
-### We need programmers to develop data mining tools and websites for updating this blacklist. Finally,all the main squeeze,criminals,financial support,logistic support as well as publicist will be found out. Email: wecansavehongkong@163.com
+### We need engineers to develop data mining tools and websites for updating this blacklist. Finally,all the main squeeze,criminals,financial support,logistic support as well as publicist will be found out. Email: wecansavehongkong@163.com
 
 ##### 黎智英，壹传媒、苹果日报
 ##### 李柱铭，香港民主党创党党魁
